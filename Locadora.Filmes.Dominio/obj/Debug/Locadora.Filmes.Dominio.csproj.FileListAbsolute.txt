@@ -1,0 +1,12 @@
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.dll
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.pdb
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csprojAssemblyReference.cache
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csproj.CoreCompileInputs.cache
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.dll
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.pdb
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.pdb
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csprojAssemblyReference.cache
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.pdb

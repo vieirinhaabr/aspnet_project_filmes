@@ -1,0 +1,24 @@
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll.config
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.pdb
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.dll
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.xml
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csprojAssemblyReference.cache
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CoreCompileInputs.cache
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CopyComplete
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
+D:\ProjetosVS\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll.config
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csprojAssemblyReference.cache
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CopyComplete
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb
